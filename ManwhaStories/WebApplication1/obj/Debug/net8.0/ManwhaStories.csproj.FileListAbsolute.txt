@@ -1,0 +1,448 @@
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\ManwhaStories\obj\Debug\net8.0\ManwhaStories.csproj.AssemblyReference.cache
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\ManwhaStories\obj\Debug\net8.0\ManwhaStories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\ManwhaStories\obj\Debug\net8.0\ManwhaStories.AssemblyInfoInputs.cache
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\ManwhaStories\obj\Debug\net8.0\ManwhaStories.AssemblyInfo.cs
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\ManwhaStories\obj\Debug\net8.0\ManwhaStories.csproj.CoreCompileInputs.cache
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\ManwhaStories\obj\Debug\net8.0\ManwhaStories.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\ManwhaStories\obj\Debug\net8.0\ManwhaStories.RazorAssemblyInfo.cache
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\ManwhaStories\obj\Debug\net8.0\ManwhaStories.RazorAssemblyInfo.cs
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.csproj.AssemblyReference.cache
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.AssemblyInfoInputs.cache
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.AssemblyInfo.cs
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.csproj.CoreCompileInputs.cache
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.RazorAssemblyInfo.cache
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.RazorAssemblyInfo.cs
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.staticwebassets.runtime.json
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.exe
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.deps.json
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.runtimeconfig.json
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.pdb
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.ManwhaStories.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.ManwhaStories.props
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ManwhaStories.props
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ManwhaStories.props
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\ManwhaStories.styles.css
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\ManwhaStories.bundle.scp.css
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaSt.4061FCAC.Up2Date
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\refint\ManwhaStories.dll
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.pdb
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.genruntimeconfig.cache
+C:\Users\Alexiio\Desktop\Proyecto_definitivo\ManwhaStories\WebApplication1\obj\Debug\net8.0\ref\ManwhaStories.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.staticwebassets.runtime.json
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.exe
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.deps.json
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.runtimeconfig.json
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.pdb
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\MySqlConnector.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.csproj.AssemblyReference.cache
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.GeneratedMSBuildEditorConfig.editorconfig
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.AssemblyInfoInputs.cache
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.AssemblyInfo.cs
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.csproj.CoreCompileInputs.cache
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.MvcApplicationPartsAssemblyInfo.cache
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.RazorAssemblyInfo.cache
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.RazorAssemblyInfo.cs
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.ManwhaStories.Microsoft.AspNetCore.StaticWebAssets.props
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.ManwhaStories.props
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ManwhaStories.props
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ManwhaStories.props
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\ManwhaStories.styles.css
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\ManwhaStories.bundle.scp.css
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaSt.4061FCAC.Up2Date
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\refint\ManwhaStories.dll
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.pdb
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.genruntimeconfig.cache
+C:\xamppp\htdocs\ManwhaStories\WebApplication1\obj\Debug\net8.0\ref\ManwhaStories.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.staticwebassets.runtime.json
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.exe
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.deps.json
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.runtimeconfig.json
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.pdb
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.csproj.AssemblyReference.cache
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.AssemblyInfoInputs.cache
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.AssemblyInfo.cs
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.csproj.CoreCompileInputs.cache
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.RazorAssemblyInfo.cache
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.RazorAssemblyInfo.cs
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.ManwhaStories.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.ManwhaStories.props
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ManwhaStories.props
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ManwhaStories.props
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\ManwhaStories.styles.css
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\ManwhaStories.bundle.scp.css
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaSt.4061FCAC.Up2Date
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\refint\ManwhaStories.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.pdb
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.genruntimeconfig.cache
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\Avance Victor\ManwhaStories\ManwhaStories\WebApplication1\obj\Debug\net8.0\ref\ManwhaStories.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.staticwebassets.runtime.json
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.exe
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.deps.json
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.runtimeconfig.json
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\ManwhaStories.pdb
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.csproj.AssemblyReference.cache
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.AssemblyInfoInputs.cache
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.AssemblyInfo.cs
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.csproj.CoreCompileInputs.cache
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.RazorAssemblyInfo.cache
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.RazorAssemblyInfo.cs
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.ManwhaStories.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.ManwhaStories.props
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ManwhaStories.props
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ManwhaStories.props
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\ManwhaStories.styles.css
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\ManwhaStories.bundle.scp.css
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaSt.4061FCAC.Up2Date
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\refint\ManwhaStories.dll
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.pdb
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\ManwhaStories.genruntimeconfig.cache
+C:\Users\Alexiio\Documents\Diseño orientado a Objetos\ManwhaStories Final\ManwhaStories\WebApplication1\obj\Debug\net8.0\ref\ManwhaStories.dll

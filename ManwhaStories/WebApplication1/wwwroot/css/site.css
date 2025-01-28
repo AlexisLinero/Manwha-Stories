@@ -1,0 +1,43 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.table tbody td {
+    color: #ffffff; /* Cambia el color aquí si prefieres otro tono */
+}
+
+.navbar .nav-link {
+    color: white !important; 
+}
+
+.btn-custom {
+    background-color: black; /* Mantiene el fondo negro */
+    color: white; /* Texto en blanco */
+}
+
+    .btn-custom:hover {
+        background-color: darkorange; /* Cambia el color al pasar el ratón */
+        color: white; /* Asegura que el texto se mantenga blanco */
+        transform: scale(1.05);
+    }
+
+

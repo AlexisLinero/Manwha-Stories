@@ -1,0 +1,34 @@
+﻿@model IEnumerable<ManwhaStories.Models.SoporteModel>
+
+<div class="container mt-4">
+    <h1>Centro de Soporte</h1>
+    <p>Gestiona y consulta los casos de soporte aquí.</p>
+
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h3>Casos Registrados</h3>
+        <a asp-action="Create" class="btn btn-primary">Nuevo Caso de Soporte</a>
+    </div>
+
+
+    <!-- Todos los Casos -->
+    <h4>Todos los Casos</h4>
+    <table class="table table-dark mt-2">
+        <thead>
+            <tr>
+                <th>ID Soporte</th>
+                <th>ID Usuario</th>
+                <th>Especialidad</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ID_Soporte</td>
+                    <td>@item.ID_Usuario</td>
+                    <td>@item.Especialidad</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

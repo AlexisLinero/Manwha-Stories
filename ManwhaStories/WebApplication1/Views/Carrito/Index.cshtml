@@ -1,0 +1,75 @@
+﻿@model IEnumerable<dynamic>
+
+@{
+    ViewData["Title"] = "Carrito de Compras";
+}
+
+<h2>Carrito de Compras</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th class="table-header">Producto</th>
+            <th class="table-header">Precio</th>
+            <th class="table-header">Cantidad</th>
+            <th class="table-header">Total</th>
+            <th class="table-header">Acciones</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Any())
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Nombre</td>
+                    <td>@((decimal)item.Precio)</td>
+                    <td>
+                        <form asp-action="ActualizarCantidad" method="post">
+                            <input type="hidden" name="itemId" value="@item.Id" />
+                            <input type="number" name="cantidad" value="@item.Cantidad" min="1" class="form-control" style="width: 60px; display: inline-block;" />
+                            <button type="submit" class="btn btn-sm btn-primary">Actualizar</button>
+                        </form>
+                    </td>
+                    <td>@(Math.Round((decimal)item.Total, 2))</td>
+                    <td>
+                        <form asp-action="EliminarDelCarrito" method="post">
+                            <input type="hidden" name="itemId" value="@item.Id" />
+                            <button type="submit" class="btn btn-sm btn-danger">Eliminar</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="5" class="text-center">No hay productos en el carrito</td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+<div class="text-right">
+    <strong>Total General:</strong>
+    @(Math.Round(Model.Sum(item => (decimal)item.Total), 2))
+</div>
+
+<div class="d-flex justify-content-between mt-3">
+    <a asp-action="Index" asp-controller="Catalogo" class="btn btn-secondary">Seguir Comprando</a>
+
+    <form asp-action="CrearPedido" method="post">
+        <button type="submit" class="btn btn-success" style="color: black; font-weight: bold;">Pagar</button>
+    </form>
+</div>
+
+<!-- Estilos personalizados -->
+<style>
+    .table-header {
+        color: white;
+        font-size: 1.2em;
+        background-color: #343a40; /* Fondo oscuro */
+    }
+</style>

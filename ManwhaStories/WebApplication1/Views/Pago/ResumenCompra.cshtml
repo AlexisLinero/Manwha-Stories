@@ -1,0 +1,82 @@
+﻿@model ManwhaStories.Models.ResumenPagoViewModel
+
+@{
+    ViewData["Title"] = "ResumenCompra";
+}
+
+<div class="container mt-5">
+    <h2>Resumen de la compra</h2>
+    <hr />
+    <h4>Datos de envío</h4>
+    <p><strong>Nombre del cliente:</strong> @(Model?.ResumenCompra?.NombreCliente ?? "No especificado")</p>
+    <p><strong>Ciudad:</strong> @(Model?.ResumenCompra?.Ciudad ?? "No especificado")</p>
+    <p><strong>Dirección de envío:</strong> @(Model?.ResumenCompra?.DireccionEnvio ?? "No especificado")</p>
+    <hr />
+
+    <h4>Datos de pago</h4>
+    <p><strong>Total Valor Carrito:</strong> $@(Model?.ResumenCompra?.TotalCarrito ?? 0)</p>
+    <p><strong>Valor envío:</strong> $@(Model?.ResumenCompra?.ValorEnvio ?? 0)</p>
+    <p><strong>Valor Total a Pagar:</strong> $@(Model?.ResumenCompra?.ValorTotal ?? 0)</p>
+    <hr />
+
+    <h4>Medio de pago</h4>
+
+    <form method="post" action="@Url.Action("PagoExitoso", "Pagos")">
+
+        <div class="form-group row">
+            <div class="col-sm-6">
+                <input type="radio" id="tarjeta" name="MetodoPago" value="Tarjeta" onclick="mostrarFormularioPago('tarjeta')" />
+                <label for="tarjeta">Tarjeta</label>
+            </div>
+            <div class="col-sm-6">
+                <input type="radio" id="pse" name="MetodoPago" value="PSE" onclick="mostrarFormularioPago('pse')" />
+                <label for="pse">PSE</label>
+            </div>
+        </div>
+
+        <!-- Formularios de pago, mostrados según el método seleccionado -->
+        <div id="pago-tarjeta" class="mt-3" style="display: none;">
+            <div class="form-group">
+                <label>Número de tarjeta:</label>
+                <input type="text" name="NumeroTarjeta" class="form-control" />
+            </div>
+            <div class="form-row">
+                <div class="col">
+                    <label>Fecha de vencimiento:</label>
+                    <input type="text" name="FechaVencimiento" class="form-control" placeholder="MM/AA" />
+                </div>
+                <div class="col">
+                    <label>Código:</label>
+                    <input type="text" name="Codigo" class="form-control" />
+                </div>
+            </div>
+        </div>
+
+        <div id="pago-pse" class="mt-3" style="display: none;">
+            <div class="form-group">
+                <label>Banco:</label>
+                <select name="Banco" class="form-control">
+                    <option>Banco de Bogotá</option>
+                    <option>Bancolombia</option>
+                    <option>Davivienda</option>
+                </select>
+            </div>
+        </div>
+
+        <!-- Botón de envío -->
+        <button type="submit" class="btn btn-success" style="color: black; font-weight: bold;">Pagar</button>
+    </form>
+
+    <script>
+
+        // Función para mostrar el formulario de pago según el medio seleccionado
+        function mostrarFormularioPago(tipo) {
+            // Mostrar u ocultar el formulario correspondiente según el tipo de pago
+            document.getElementById("pago-tarjeta").style.display = tipo === 'tarjeta' ? 'block' : 'none';
+            document.getElementById("pago-pse").style.display = tipo === 'pse' ? 'block' : 'none';
+        }
+
+    </script>
+
+
+</div>

@@ -1,0 +1,60 @@
+﻿@model ManwhaStories.Models.Pedido
+
+<div class="container mt-5">
+    <!-- Mensaje de Confirmación -->
+    <div class="alert alert-success text-center">
+        <h1 class="text-dark">¡Pedido Confirmado!</h1>
+        <p class="lead text-dark">Gracias por tu compra. Aquí tienes los detalles de tu pedido:</p>
+    </div>
+
+    <!-- Tarjeta de Detalles del Pedido -->
+    <div class="card shadow">
+        <div class="card-header bg-primary text-white">
+            <h3 class="mb-0">Detalles del Pedido</h3>
+        </div>
+        <div class="card-body bg-light text-dark">
+            <dl class="row">
+                <dt class="col-sm-4">Número de Pedido:</dt>
+                <dd class="col-sm-8">@Model.Id_Pedido</dd>
+
+                <dt class="col-sm-4">Fecha:</dt>
+                <dd class="col-sm-8">
+                    @if (Model.FechaPedido != null)
+                    {
+                        @Model.FechaPedido.ToString("g")
+                    }
+                    else
+                    {
+                        <span class="text-muted">Sin asignar</span>
+                    }
+                </dd>
+
+                <dt class="col-sm-4">Total:</dt>
+                <dd class="col-sm-8">
+                    @if (Model.Total > 0)
+                    {
+                        @Model.Total.ToString("C")
+                    }
+                    else
+                    {
+                        <span class="text-muted">No disponible</span>
+                    }
+                </dd>
+
+                <dt class="col-sm-4">Estado:</dt>
+                <dd class="col-sm-8">
+                    <span class="badge bg-warning text-dark">@Model.Estado</span>
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+    <!-- Botón de Acción -->
+    <div class="text-center mt-4">
+        <form asp-action="DatosUsuario" asp-controller="Usuario" method="post">
+            <button type="submit" class="btn btn-warning btn-lg" style="color: black; font-weight: bold;">
+                Continuar <i class="fas fa-arrow-right"></i>
+            </button>
+        </form>
+    </div>
+</div>

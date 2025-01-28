@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xamppp\\htdocs\\ManwhaStories\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\xamppp\\htdocs\\manwhastories\\webapplication1\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\xamppp\\htdocs\\manwhastories\\webapplication1\\controllers\\inventarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\controllers\\inventarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\xamppp\\htdocs\\manwhastories\\webapplication1\\views\\inventario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\views\\inventario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\xamppp\\htdocs\\manwhastories\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\xamppp\\htdocs\\manwhastories\\webapplication1\\views\\inventario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\views\\inventario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniel\\AppData\\Local\\Temp\\.vsdbgsrc\\1c565a1e7ec70f2b5b4a6482c2fe5c7bd23c3ad01a1b720eda9bc16d771b9a9b\\MultiSelectList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\xamppp\\htdocs\\manwhastories\\webapplication1\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\xamppp\\htdocs\\manwhastories\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 237,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MultiSelectList.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\AppData\\Local\\Temp\\.vsdbgsrc\\1c565a1e7ec70f2b5b4a6482c2fe5c7bd23c3ad01a1b720eda9bc16d771b9a9b\\MultiSelectList.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Daniel\\AppData\\Local\\Temp\\.vsdbgsrc\\1c565a1e7ec70f2b5b4a6482c2fe5c7bd23c3ad01a1b720eda9bc16d771b9a9b\\MultiSelectList.cs",
+              "ToolTip": "C:\\Users\\Daniel\\AppData\\Local\\Temp\\.vsdbgsrc\\1c565a1e7ec70f2b5b4a6482c2fe5c7bd23c3ad01a1b720eda9bc16d771b9a9b\\MultiSelectList.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Daniel\\AppData\\Local\\Temp\\.vsdbgsrc\\1c565a1e7ec70f2b5b4a6482c2fe5c7bd23c3ad01a1b720eda9bc16d771b9a9b\\MultiSelectList.cs [Solo lectura]",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwGYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:29:25.689Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\xamppp\\htdocs\\ManwhaStories\\WebApplication1\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Producto.cs",
+              "ToolTip": "C:\\xamppp\\htdocs\\ManwhaStories\\WebApplication1\\Models\\Producto.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:21:32.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\xamppp\\htdocs\\ManwhaStories\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\xamppp\\htdocs\\ManwhaStories\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T23:00:23.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\xamppp\\htdocs\\ManwhaStories\\WebApplication1\\Views\\inventario\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\inventario\\Create.cshtml",
+              "ToolTip": "C:\\xamppp\\htdocs\\ManwhaStories\\WebApplication1\\Views\\inventario\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\inventario\\Create.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T18:46:51.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\xamppp\\htdocs\\ManwhaStories\\WebApplication1\\Models\\Inventario.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Inventario.cs",
+              "ToolTip": "C:\\xamppp\\htdocs\\ManwhaStories\\WebApplication1\\Models\\Inventario.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Inventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:57:10.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventariosController.cs",
+              "DocumentMoniker": "C:\\xamppp\\htdocs\\ManwhaStories\\WebApplication1\\Controllers\\InventariosController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\InventariosController.cs",
+              "ToolTip": "C:\\xamppp\\htdocs\\ManwhaStories\\WebApplication1\\Controllers\\InventariosController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\InventariosController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAIwJEAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:56:55.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\xamppp\\htdocs\\ManwhaStories\\WebApplication1\\Views\\inventario\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\inventario\\Index.cshtml",
+              "ToolTip": "C:\\xamppp\\htdocs\\ManwhaStories\\WebApplication1\\Views\\inventario\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\inventario\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T19:28:26.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\xamppp\\htdocs\\ManwhaStories\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\xamppp\\htdocs\\ManwhaStories\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:49:38.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+﻿@model ManwhaStories.Models.Producto
+
+@{
+    ViewData["Title"] = "Descripción del Producto";
+}
+
+<h2>@Model.Nombre</h2>
+<img src="@Model.URL" alt="@Model.Nombre" style="width: 100%; max-width: 400px;" />
+<p>@Model.Descripcion</p>
+<p><strong>Precio:</strong> $@Model.Precio</p>
+
+<a asp-action="Index" asp-controller="Catalogo" class="btn btn-secondary">Volver al Catálogo</a>

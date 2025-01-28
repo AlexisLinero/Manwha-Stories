@@ -1,0 +1,43 @@
+﻿@model ManwhaStories.Models.Pedido
+
+<div class="container mt-5">
+    <div class="alert alert-success text-center">
+        <h1>¡Confirmación de Pedido!</h1>
+        <p>Tu pedido ha sido creado con éxito.</p>
+    </div>
+
+    <div class="card shadow mt-4 border-secondary" style="background-color: #f0f0f0;">
+        <div class="card-header bg-dark text-white text-center">
+            <h3>Detalles del Pedido</h3>
+        </div>
+        <div class="card-body">
+            <dl class="row text-dark">
+                <dt class="col-sm-4 font-weight-bold">Número de Pedido:</dt>
+                <dd class="col-sm-8">
+                    <span class="badge bg-primary text-white p-2" style="font-size: 1.1em;">
+                        @Model.Id_Pedido
+                    </span>
+                </dd>
+
+                <dt class="col-sm-4 font-weight-bold">Fecha:</dt>
+                <dd class="col-sm-8">@Model.FechaPedido.ToString("g")</dd>
+
+                <dt class="col-sm-4 font-weight-bold">Total:</dt>
+                <dd class="col-sm-8">@Model.Total.ToString("C")</dd>
+
+                <dt class="col-sm-4 font-weight-bold">Estado:</dt>
+                <dd class="col-sm-8">
+                    <span class="badge @(Model.Estado == "Pendiente" ? "bg-warning text-dark" : "bg-success text-white") p-2">
+                        @Model.Estado
+                    </span>
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+    <div class="text-center mt-4">
+        <a asp-controller="Catalogo" asp-action="Index" class="btn btn-warning btn-lg text-dark">
+            Volver al Catálogo
+        </a>
+    </div>
+</div>

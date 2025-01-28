@@ -1,0 +1,391 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\views\\pago\\confirmapedido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\views\\pago\\confirmapedido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\views\\pago\\resumencompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\views\\pago\\resumencompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\views\\pago\\confirmacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\views\\pago\\confirmacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\models\\datopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\models\\datopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\models\\resumencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\models\\resumencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\views\\pago\\datos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\views\\pago\\datos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\views\\catalogo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\views\\catalogo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\views\\soporte\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\views\\soporte\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\views\\soporte\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\views\\soporte\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\views\\inventario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\views\\inventario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\controllers\\soportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\controllers\\soportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|c:\\users\\alexiio\\documents\\dise\u00F1o orientado a objetos\\manwhastories final\\manwhastories\\webapplication1\\models\\soportemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7273FFC5-5A46-49E2-A136-1A74DE59D73D}|WebApplication1\\ManwhaStories.csproj|solutionrelative:webapplication1\\models\\soportemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 237,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T23:00:23.966Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfirmaPedido.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Views\\Pago\\ConfirmaPedido.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Pago\\ConfirmaPedido.cshtml",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Views\\Pago\\ConfirmaPedido.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Pago\\ConfirmaPedido.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T00:12:30.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagosController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Controllers\\PagosController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PagosController.cs",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Controllers\\PagosController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\PagosController.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAgwI0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:59:20.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:21:29.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResumenCompra.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Views\\Pago\\ResumenCompra.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Pago\\ResumenCompra.cshtml",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Views\\Pago\\ResumenCompra.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Pago\\ResumenCompra.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T00:03:14.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Confirmacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Views\\Pago\\Confirmacion.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Pago\\Confirmacion.cshtml",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Views\\Pago\\Confirmacion.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Pago\\Confirmacion.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T00:13:32.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatoPago.cs",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Models\\DatoPago.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\DatoPago.cs",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Models\\DatoPago.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\DatoPago.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:14:13.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResumenCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Models\\ResumenCompra.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ResumenCompra.cs",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Models\\ResumenCompra.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ResumenCompra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:14:58.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Models\\ViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Models\\ViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:15:41.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarritoController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Controllers\\CarritoController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CarritoController.cs",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Controllers\\CarritoController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CarritoController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAALoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:47:10.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\PedidoController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:20:07.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:21:03.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Models\\Usuario.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:23:25.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Models\\Carrito.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Carrito.cs",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Models\\Carrito.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Carrito.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:47:06.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Datos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Views\\Pago\\Datos.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Pago\\Datos.cshtml",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Views\\Pago\\Datos.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Pago\\Datos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T23:52:46.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Views\\inventario\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\inventario\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Views\\inventario\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\inventario\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T23:45:54.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Views\\Soporte\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Soporte\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Views\\Soporte\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Soporte\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T04:31:08.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Views\\Soporte\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Soporte\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Views\\Soporte\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Soporte\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T14:06:29.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SoporteModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Models\\SoporteModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\SoporteModel.cs",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Models\\SoporteModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\SoporteModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:58:51.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T04:11:47.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SoporteController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Controllers\\SoporteController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SoporteController.cs",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Controllers\\SoporteController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\SoporteController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:30:26.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Views\\Catalogo\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Catalogo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Views\\Catalogo\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Catalogo\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T04:11:26.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Alexiio\\Documents\\Dise\u00F1o orientado a Objetos\\ManwhaStories Final\\ManwhaStories\\WebApplication1\\Models\\Producto.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Producto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:45:13.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
